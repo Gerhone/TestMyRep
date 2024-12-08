@@ -1,0 +1,4 @@
+we could ping 192.168.0.1 now
+we could ping 192.168.0.2 now
+we could ping 192.168.0.3 now
+we could ping 192.168.0.finish now
